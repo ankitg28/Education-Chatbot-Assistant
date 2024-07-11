@@ -80,7 +80,7 @@ The goal of this assignment is to develop a domain-specific application that com
   To clear chat history, go to the "Chatbot" tab and click "Clear Chat History."
 
 ## PDF Report
-Report: [Report](./report.pdf)
+Report: [Report](./Report.pdf)
 
 ## Demo Video Demonstration
 Watch the video demonstration to see BrainBytes in action: [https://youtu.be/oYt6LAaVhmo](https://youtu.be/InEwhVpjjog)
