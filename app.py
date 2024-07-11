@@ -179,4 +179,3 @@ with tab3:
     if st.button("Clear Chat History"):
         cb.chat_history = []
         st.success("Chat history cleared!")
-# 
