@@ -83,7 +83,7 @@ The goal of this assignment is to develop a domain-specific application that com
 Report: [Report](./RAG_Report.pdf)
 
 ## Demo Video Demonstration
-Watch the video demonstration to see BrainBytes in action: [https://youtu.be/oYt6LAaVhmo](https://youtu.be/InEwhVpjjog)
+Watch the video demonstration to see the application in action: [https://youtu.be/oYt6LAaVhmo](https://youtu.be/uWlA38_H2kE)
 
 ## Licensing
 
