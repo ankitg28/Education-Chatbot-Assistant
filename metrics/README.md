@@ -80,7 +80,7 @@
 Report: [EvaluationReport](./EvaluationReport.pdf)
 
 ## Demo Video Demonstration
-Watch the video demonstration to see the application in action: [https://youtu.be/oYt6LAaVhmo](https://youtu.be/uWlA38_H2kE)
+Watch the video demonstration to see the application in action: [https://youtu.be/oYt6LAaVhmo](https://youtu.be/jUzoynBx7gg)
 
 ## Licensing
 
